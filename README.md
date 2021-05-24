@@ -6,8 +6,7 @@ Spooky's Default Edit Texture Pack
 
 ### Main Pack
 
-Vibe: https://mcpedl.com/user/vibe/
-
+Vibe: https://mcpedl.com/user/vibe/ </br>
 Imperial Texture Pack: https://mcpedl.com/imperial-pvp-pack-groovy-remastered/
  - Clear water, no lava fog, transparent portal, armour icons
 
