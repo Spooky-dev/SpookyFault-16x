@@ -7,39 +7,39 @@ Spooky's Default Edit Texture Pack
 ### Main Pack
 
 Vibe: https://mcpedl.com/user/vibe/ </br>
-Imperial Texture Pack: https://mcpedl.com/imperial-pvp-pack-groovy-remastered/
- - Clear water, no lava fog, transparent portal, armour icons
+Imperial Texture Pack: https://mcpedl.com/imperial-pvp-pack-groovy-remastered/ </br>
+ - Clear water, no lava fog, transparent portal, armour icons </br>
 
 
 NetherNinja: https://mcpedl.com/user/netherninja/ </br>
-Codes and textures are from Bedrocktimize: https://mcpedl.com/quick-settings-addon/
- - Paperdoll, visible hearts, hunger and armor in the inventory. Armour Slots in the creative invetory and the chat UI
+Codes and textures are from Bedrocktimize: https://mcpedl.com/quick-settings-addon/ </br>
+ - Paperdoll, visible hearts, hunger and armor in the inventory. Armour Slots in the creative invetory and the chat UI </br>
 
 
 Keno: https://www.youtube.com/channel/UCoLVr95y1SRxmvXDr-s-nqg </br>
 RKY: https://www.youtube.com/channel/UCrBO95jpB_yEIO1BfyqmuiQ </br>
-RKYfault v2: https://www.youtube.com/watch?v=87HDH83wMEg
- - Fire, Iron, gold, and diamond blocks. Tools Colour Pallet, armour models, particles and other items
-Rivera 16x: https://www.youtube.com/watch?v=YWHhyzM_n-M&t=162s
- - Bow and Fishing Rod
+RKYfault v2: https://www.youtube.com/watch?v=87HDH83wMEg </br>
+ - Fire, Iron, gold, and diamond blocks. Tools Colour Pallet, armour models, particles and other items </br>
+Rivera 16x: https://www.youtube.com/watch?v=YWHhyzM_n-M&t=162s </br>
+ - Bow and Fishing Rod </br>
 
 
 Ambient: https://mcpedl.com/user/ambientturtle | https://www.youtube.com/channel/UC6DhG0JGXaE8HaijzyTbyIQ </br>
-Custom Damage Particles V2: https://mcpedl.com/custom-damage-particles/
- - For the custom damage particles
+Custom Damage Particles V2: https://mcpedl.com/custom-damage-particles/ </br>
+ - For the custom damage particles </br>
 
 
 Snailoman: https://www.youtube.com/channel/UCaVZrpThxY0dh5W1ws-nFow | https://mcpedl.com/user/snailoman </br>
-Chat Background Remover: https://mcpedl.com/chat-bg-remover/
+Chat Background Remover: https://mcpedl.com/chat-bg-remover/ </br>
 
 
 OffRoaders123: https://mcpedl.com/user/offroaders123/ </br>
-Dark Mode: https://mcpedl.com/dark-mode-resource-pack/
+Dark Mode: https://mcpedl.com/dark-mode-resource-pack/ </br>
  - Dark Mode GUI
 
 
 ### Sky Overlay
- - Only Works in versions below 1.16.200
+ - Only Works in versions below 1.16.200 </br>
 
 Yuruze: https://www.planetminecraft.com/member/yuruze/ | https://www.youtube.com/channel/UC7aULSsnDSTCs7aLmlLDjVQ </br>
 Day | Clouds and Planets Overlay: https://www.planetminecraft.com/texture-pack/clouds-and-planets-overlay-custom-sky-overlay/ </br>
