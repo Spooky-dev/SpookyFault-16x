@@ -2,7 +2,9 @@
 Spooky's Default Edit Texture Pack
 
 
-# Credits:
+## Credits:
+
+### Main Pack
 
 Vibe: https://mcpedl.com/user/vibe/
 Imperial Texture Pack: https://mcpedl.com/imperial-pvp-pack-groovy-remastered/
@@ -30,9 +32,16 @@ OffRoaders123: https://mcpedl.com/user/offroaders123/
 Dark Mode: https://mcpedl.com/dark-mode-resource-pack/
  - Dark Mode GUI
 
+### Sky Overlay
+ - Only Works in versions below 1.16.200
+
+Yuruze: https://www.planetminecraft.com/member/yuruze/ | https://www.youtube.com/channel/UC7aULSsnDSTCs7aLmlLDjVQ
+Day | Clouds and Planets Overlay: https://www.planetminecraft.com/texture-pack/clouds-and-planets-overlay-custom-sky-overlay/
+Sunset & Sunrise | Kimi No Na Wa Sky: https://www.planetminecraft.com/texture-pack/kimi-no-na-wa-sky-overlay-custom-sky-overlay/
+Night | Clouds & Planets Night Sky Overlay: https://www.planetminecraft.com/texture-pack/clouds-amp-planets-night-sky-overlay-custom-sky-overlay/
 Others that aren't mentioned
 
-# Others
+## Others
 
 Other texture packs that I use:
 
