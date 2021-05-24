@@ -49,6 +49,8 @@ Night | Clouds & Planets Night Sky Overlay: https://www.planetminecraft.com/text
 
 Others that aren't mentioned
 
+If you are one of these amazing people listed here and dont like me distributing your textures you can dm me on discord `Spooky#0683`
+
 ## Others
 
 Other texture packs that I use:
