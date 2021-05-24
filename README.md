@@ -31,3 +31,10 @@ Dark Mode: https://mcpedl.com/dark-mode-resource-pack/
  - Dark Mode GUI
 
 Others that aren't mentioned
+
+# Others
+
+Other texture packs that I use:
+
+Custom Totems Pack For Hive Treasure Wars
+ - https://mcpedl.com/custom-totems-pack/
