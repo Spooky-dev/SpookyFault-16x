@@ -10,7 +10,7 @@ Vibe: https://mcpedl.com/user/vibe/ </br>
 Imperial Texture Pack: https://mcpedl.com/imperial-pvp-pack-groovy-remastered/
  - Clear water, no lava fog, transparent portal, armour icons
 
-</br
+</br>
 NetherNinja: https://mcpedl.com/user/netherninja/ </br>
 Bedrocktimize: https://mcpedl.com/quick-settings-addon/
  - Paperdoll, visible hearts, hunger and armor in the inventory. Armour Slots in the creative invetory and the chat UI
